@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  flex: 1 0 21%;
+}
+.bodyTy {
+  margin-left: 10%;
+  color: grey;
+  font-weight: bold;
+  text-align: left;
+}
+.modelNa {
+  display: inline;
+  color: black;
+  text-align: left;
+  font-weight: bold;
+}
+.modelTy {
+  color: grey;
+  display: inline;
+}
+
+img {
+  margin-top: 10px;
+  width: 300px;
+}
